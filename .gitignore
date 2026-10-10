@@ -13,3 +13,9 @@ venv/
 .vscode/
 .idea/
 .DS_Store
+
+# Ignore exported output text reports
+*.txt
+
+# Exception: Always track requirements.txt
+!requirements.txt
