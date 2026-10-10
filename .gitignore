@@ -1,0 +1,15 @@
+# Environment & Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Ignore exported output data files
+*.txt
+*.csv
+*.json
+
+# Editor / OS settings
+.vscode/
+.idea/
+.DS_Store
